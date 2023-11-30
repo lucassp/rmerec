@@ -25,7 +25,7 @@ library("rmerec")
 ...
 ```
 
-### Calculation option 1 - from DOI´s test data ###
+### Calculation sample from DOI´s data ###
 ```
 
 DOI´s test data
